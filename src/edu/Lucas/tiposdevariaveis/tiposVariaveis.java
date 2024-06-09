@@ -1,5 +1,5 @@
 package edu.Lucas.tiposdevariaveis;
 
-public class tiposVariaveis1 {
+public class tiposVariaveis {
     
 }
